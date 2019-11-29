@@ -5,9 +5,9 @@
 # Data:
 
 
-1) EEGLearn ([Link to repository](https://github.com/pbashivan/EEGLearn)) Sample data.
+1) EEGLearn ([Link to the repository](https://github.com/pbashivan/EEGLearn)) Sample data.
 
-First, Install requirments:
+First, Install requirements:
 
 ```
   pip install -r requirements.txt
