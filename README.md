@@ -2,7 +2,10 @@
 
 # Apply T-sne ([TSNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)) on EED data
 
+# Data:
 
+
+1) EEGLearn ([Link to repository](https://github.com/pbashivan/EEGLearn)) Sample data.
 
 First, Install requirments:
 
