@@ -12,3 +12,6 @@ First, Install requirments:
 Run it online:
 https://mybinder.org/v2/gh/MohammadJavadD/TSNE_EEG.git/master
 
+![EEGLearn](Img/EEGLEARN.png)
+
+
